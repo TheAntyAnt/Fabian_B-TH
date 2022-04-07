@@ -214,6 +214,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 495dbca1c0ff27e42a411040f7663d62, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  axleInfos: []
+  maxMotorTorque: 400
+  maxSteeringAngle: 30
 --- !u!54 &381706400
 Rigidbody:
   m_ObjectHideFlags: 0
