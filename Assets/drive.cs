@@ -7,9 +7,8 @@ public class AxleInfo
 {
     public WheelCollider leftWheel;
     public WheelCollider rightWheel;
-    public bool motor; // is this wheel attached to motor?
-    public bool steering; // does this wheel apply steer angle?
-
+    public bool motor;
+    public bool steering;
 }
 
 public class drive : MonoBehaviour
